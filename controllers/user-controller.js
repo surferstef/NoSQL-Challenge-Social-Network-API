@@ -2,8 +2,8 @@ const { User } = require('../models');
 
 const userController = {
     // get all users
-    getAlluser(req, res) {
-        user.find({})
+    getAllUsers(req, res) {
+        User.find({})
             .then(dbuserData => res.json(dbuserData))
             .catch(err => {
                 console.log(err);
@@ -12,8 +12,8 @@ const userController = {
     },
 
     // get one user by id
-    getuserById({ params }, res) {
-        user.findOne({ _id: params.id })
+    getUserById({ params }, res) {
+        User.findOne({ _id: params.id })
         .then(dbuserData => {
             //If no user found, send 404 error
             if (!dbuserData) {
@@ -29,8 +29,8 @@ const userController = {
     },
 
     // create user
-    createuser({ body }, res) {
-        user.create(body)
+    createUser({ body }, res) {
+        User.create(body)
         .then(dbuserData => res.json(dbuserData))
         .catch(err => res.status(400).json(err));
     },

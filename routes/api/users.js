@@ -4,7 +4,16 @@ const {
     getUserById,
     createUser,
     updateUser,
-    deleteUser
+    deleteUser,
+    createFriend,
+    deleteFriend,
+    // getAllThoughts,
+    // getThoughtById,
+    // createThought,
+    // updateThought,
+    // deleteThought,
+    // createReaction,
+    // deleteReaction
   } = require('../../controllers/user-controller');
 
 // Set up GET all and POST at /api/users
@@ -19,5 +28,10 @@ router
   .get(getUserById)
   .put(updateUser)
   .delete(deleteUser);
+
+  router
+    .route('/:userIs/friends/:friendId')
+    .post(createFriend)
+    .delete(deleteFriend);
 
 module.exports = router;
