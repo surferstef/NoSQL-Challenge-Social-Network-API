@@ -30,7 +30,7 @@ const userSchema = new Schema({
 
 // Add virtual to add more info to database response
 // get total length of user's friends array field
-userSchema.virtual('friendCount').get(() => {
+userSchema.virtual('friendCount').get(function() {
     return this.friends.length;
 });
 
