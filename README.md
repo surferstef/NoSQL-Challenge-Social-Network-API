@@ -14,6 +14,9 @@ This application showcases use of MongoDB for a social media API backend. Here, 
 * Get Users and User by ID:
 [![Watch the video](https://drive.google.com/file/d/1lhv9FjO1EEEqdzYLB9Vn_ACWfRZUtYzO/view)](https://drive.google.com/file/d/1lhv9FjO1EEEqdzYLB9Vn_ACWfRZUtYzO/view)
 
+* Post and Get Thoughts
+* [![Watch the video](https://drive.google.com/file/d/1qbbpqhMTaVf2oBoqw7GQ49ITtPJeflgi/view)](https://drive.google.com/file/d/1qbbpqhMTaVf2oBoqw7GQ49ITtPJeflgi/view)
+ 
 
 
 ## Built With
