@@ -14,9 +14,13 @@ This application showcases use of MongoDB for a social media API backend. Here, 
 * Get Users and User by ID:
 [![Watch the video](https://drive.google.com/file/d/1lhv9FjO1EEEqdzYLB9Vn_ACWfRZUtYzO/view)](https://drive.google.com/file/d/1lhv9FjO1EEEqdzYLB9Vn_ACWfRZUtYzO/view)
 
-* Post and Get Thoughts
-* [![Watch the video](https://drive.google.com/file/d/1qbbpqhMTaVf2oBoqw7GQ49ITtPJeflgi/view)](https://drive.google.com/file/d/1qbbpqhMTaVf2oBoqw7GQ49ITtPJeflgi/view)
- 
+* Post and Get Thoughts: 
+[![Watch the video](https://drive.google.com/file/d/1qbbpqhMTaVf2oBoqw7GQ49ITtPJeflgi/view)](https://drive.google.com/file/d/1qbbpqhMTaVf2oBoqw7GQ49ITtPJeflgi/view)
+
+
+* Post New Thought, Post Reaction to that Thought, Delete Reaction, Delete Thought:
+[![Watch the video](https://drive.google.com/file/d/1RAyQeFBYcClFpNwwka8g_mfL3ggWnyeq/view)](https://drive.google.com/file/d/1RAyQeFBYcClFpNwwka8g_mfL3ggWnyeq/view)
+
 
 
 ## Built With
