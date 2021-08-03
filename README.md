@@ -17,8 +17,11 @@ This application showcases use of MongoDB for a social media API backend. Here, 
 * Post and Get Thoughts: 
 [![Watch the video](https://drive.google.com/file/d/1qbbpqhMTaVf2oBoqw7GQ49ITtPJeflgi/view)](https://drive.google.com/file/d/1qbbpqhMTaVf2oBoqw7GQ49ITtPJeflgi/view)
 
-* Get Thought By ID
+* Get Thought By ID:
 [![Watch the video](https://drive.google.com/file/d/10WNe4MWR6b_hELqQrEczLB-FrtUaEmJ2/view)](https://drive.google.com/file/d/10WNe4MWR6b_hELqQrEczLB-FrtUaEmJ2/view)
+
+* Update Users:
+[![Watch the video](https://drive.google.com/file/d/1CSKaSPQ9mz7WqiCDfS7I76IGi8vcYnX6/view)](https://drive.google.com/file/d/1CSKaSPQ9mz7WqiCDfS7I76IGi8vcYnX6/view)
 
 
 
