@@ -26,6 +26,11 @@ This application showcases use of MongoDB for a social media API backend. Here, 
 * Update Thought:
 [![Watch the video](https://drive.google.com/file/d/1qfJRsM8GYVQIPFO3DfpYpEWeDpqjeIDf/view)](https://drive.google.com/file/d/1qfJRsM8GYVQIPFO3DfpYpEWeDpqjeIDf/view)
 
+* Delete Reaction:
+[![Watch the video](https://drive.google.com/file/d/1vNP4OWX-nZu2PiiE4JX1PcM4yZO6ldSj/view)](https://drive.google.com/file/d/1vNP4OWX-nZu2PiiE4JX1PcM4yZO6ldSj/view)
+
+* Delete Thought:
+[![Watch the video](https://drive.google.com/file/d/1KW2WIM7fpyjFqQH3evCVcYfh8sTzVCG6/view)](https://drive.google.com/file/d/1KW2WIM7fpyjFqQH3evCVcYfh8sTzVCG6/view)
 
 
 * Post New Thought, Post Reaction to that Thought, Delete Reaction, Delete Thought:
